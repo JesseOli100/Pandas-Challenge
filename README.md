@@ -63,6 +63,8 @@ Use the code provided below to create four bins with reasonable cutoff values to
 
 ![image](https://github.com/JesseOli100/Pandas-Challenge/assets/62526904/afc1429a-bbfa-4afa-b951-4cc701a21e3e)!
 
-Use pd.cut to categorize spending based on the bins.
-Use the following code to then calculate mean scores per spending range.
+Use pd.cut to categorize spending based on the bins. Use the following code to then calculate mean scores per spending range.
+
+![Snip20231106_2](https://github.com/JesseOli100/Pandas-Challenge/assets/62526904/b4213508-2b02-4990-9311-373d5be63e86)
+
 
