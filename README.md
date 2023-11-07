@@ -67,4 +67,15 @@ Use pd.cut to categorize spending based on the bins. Use the following code to t
 
 ![Snip20231106_2](https://github.com/JesseOli100/Pandas-Challenge/assets/62526904/b4213508-2b02-4990-9311-373d5be63e86)
 
+Use the scores above to create a DataFrame called spending_summary.
+Include the following metrics in the table:
+
+* Average math score
+* Average reading score
+* % passing math (the percentage of students who passed math)
+* % passing reading (the percentage of students who passed reading)
+* % overall passing (the percentage of students who passed math AND reading)
+
+# Scores by School Size
+Use the following code to bin the per_school_summary.
 
