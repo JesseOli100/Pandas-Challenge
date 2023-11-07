@@ -60,3 +60,9 @@ Create a DataFrame that lists the average reading score for students of each gra
 # Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
+
+![image](https://github.com/JesseOli100/Pandas-Challenge/assets/62526904/afc1429a-bbfa-4afa-b951-4cc701a21e3e)!
+
+Use pd.cut to categorize spending based on the bins.
+Use the following code to then calculate mean scores per spending range.
+
