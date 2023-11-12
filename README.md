@@ -90,3 +90,10 @@ This new DataFrame should show school performance based on the "School Type".
 
 # Sources 
 
+• Help from TA Matthew Werth and other staff
+
+• Met up w/ other students during study groups to hash out the code through what we have learned so far
+
+• Used StackOverFlow and ChatGPT for issues on the code and/or to explain why certain pieces of the script were not running as intended
+
+• The majority of how the code works is explained on the .bas file through the comments made next to the code. I did my best to iterate each line with the basics precepts of what each line or set of lines is supposed to be doing
