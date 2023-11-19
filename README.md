@@ -97,3 +97,7 @@ This new DataFrame should show school performance based on the "School Type".
 • Used StackOverFlow and ChatGPT for issues on the code and/or to explain why certain pieces of the script were not running as intended
 
 • The majority of how it works is explained on the comments within the code or is self-explanatory throughout the flow of the code 
+
+- - -
+
+This is submitted by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
