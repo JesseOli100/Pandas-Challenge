@@ -98,6 +98,46 @@ This new DataFrame should show school performance based on the "School Type".
 
 • The majority of how it works is explained on the comments within the code or is self-explanatory throughout the flow of the code 
 
+# Final Notes
+
+What is each set of code supposed to be doing/What is the overall purpose?
+
+The purpose of the code is to manipulate the sections within the dataframe to gather meaningful information about all of the best performing and lowest performing schools within a district and get the averages per student of where they excel and where they lack behind. This information can be useful for a school board or parent board in order to gather more information about how schools are teaching their children and what can/ought to be done about the quality of their learning. 
+
+Syntax Learned:
+
+•	def function_name(df): - Defines the function name and uses “df” as a parameter
+
+•	return df[‘column_name’] – Returns the values within the specific column name
+
+•	.nunique() – is used to count the number of unique values in a series or dataframe. It stands for ‘number of unique’ 
+
+•	.count() – is used to count the number of non-null (non-missing) values in a series or dataframe
+
+•	.sum() – is used to calculate the sum of values in a series or dataframe 
+
+•	.mean() – is used to calculate the mean (average) of values in a series or dataframe. This is the sum of all values divided by how many there are.
+
+•	.len() – used to get the length or number of items in an object 
+
+•	.index() – is used to access the index of a pandas object, such as a series or dataframe
+
+•	.set_index – is used to set one or more columns as the index of a dataframe
+
+•	.shape – is used to retrieve the dimensions (shape) of the array or dataframe
+
+•	.values - is used to retrieve the underlying NumPy array of a pandas DataFrame or Series. It returns a NumPy array representation of the data, allowing for easy integration with other NumPy or mathematical operations.
+
+•	.append() - is used to add an element to the end of a list or another iterable object. It is a commonly used method to extend a list by appending elements. 
+
+•	.map() - is a method available in various contexts, such as strings, lists, and pandas Series. Its purpose is to apply a specified function to each element of an iterable (like a list or Series) and return an iterable of the results.
+
+•	.format() - is used to format strings. It provides a flexible way to embed variables and expressions inside a string, allowing you to create strings that incorporate dynamic values.
+
+•	.sort_values() - is used to sort the values of a DataFrame or Series along a specified axis. This method is particularly useful when working with tabular data, where you might want to reorder rows based on the values in one or more columns.
+
+•	.groupby() - is used for grouping data based on some criteria. It allows you to split a DataFrame into groups based on the values in one or more columns, and then apply a function to each group independently. 
+
 - - -
 
 This is submitted by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
